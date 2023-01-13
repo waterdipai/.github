@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="wd_full_logo.png" width="1512">
+    <img alt="Logo" src="https://github.com/waterdipai/.github/blob/main/profile/wd_full_logo.png" width="1512">
 </p>
 
 <h2 align="center">
